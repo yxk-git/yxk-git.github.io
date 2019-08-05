@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://yxk-git.github.io/2019/07/02/hello-world/</loc>
-    <lastmod>2019-07-08</lastmod>
+    <loc>https://yxk-git.github.io/2019/07/18/%E5%B8%B8%E7%94%A8API/</loc>
+    <lastmod>2019-07-23</lastmod>
   </url>  <url>
-    <loc>https://yxk-git.github.io/2019/07/04/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</loc>
-    <lastmod>2019-07-04</lastmod>
+    <loc>https://yxk-git.github.io/2019/07/18/%E7%BB%A7%E6%89%BF%E5%92%8C%E6%8A%BD%E8%B1%A1%E7%B1%BB/</loc>
+    <lastmod>2019-07-23</lastmod>
+  </url>  <url>
+    <loc>https://yxk-git.github.io/2019/07/18/%E5%BC%82%E5%B8%B8%E5%92%8C%E5%A4%9A%E7%BA%BF%E7%A8%8B/</loc>
+    <lastmod>2019-07-23</lastmod>
+  </url>  <url>
+    <loc>https://yxk-git.github.io/2019/07/18/final%E3%80%81static%E5%85%B3%E9%94%AE%E5%AD%97%E5%92%8C%E5%86%85%E9%83%A8%E7%B1%BB/</loc>
+    <lastmod>2019-07-21</lastmod>
+  </url>  <url>
+    <loc>https://yxk-git.github.io/2019/07/18/%E6%8E%A5%E5%8F%A3%E5%92%8C%E5%A4%9A%E6%80%81/</loc>
+    <lastmod>2019-07-21</lastmod>
   </url>
 </urlset>
